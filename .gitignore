@@ -1,0 +1,9 @@
+.classpath
+.project
+*.iml
+.idea
+target
+wrapper
+
+web-app/VAADIN/gwt-unitCache
+web-app/VAADIN/widgetsets
